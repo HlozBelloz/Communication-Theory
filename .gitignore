@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / Scratch
+.system_generated/
+*.asv
+*.tmp
