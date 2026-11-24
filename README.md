@@ -15,3 +15,15 @@ Department of Communications
     - `task2_mae_vs_levels.png`: Mean Absolute Error (MAE) vs. Levels
     - `task3_variance_vs_levels.png`: Quantization Error Variance vs. Levels
     - `task4_sqnr_vs_levels.png`: SQNR vs. Levels
+
+- `part 2/`: Final Lab Project — Digital Communication Link Simulation with Huffman Source Coding
+  - `Mazen_Altelbany.m`: Main all-in-one MATLAB simulation script (includes all local functions)
+  - `COMM502_Final_Project_Report_Mazen_Altelbany.pdf`: Formal student project report (PDF)
+  - `COMM502_Final_Project_Report_Mazen_Altelbany.docx`: Editable student project report (Word document)
+  - `Project_Explanation.pdf`: Complete theory guide and conceptual walkthrough
+  - `Code_Step_by_Step_Explanation.pdf`: Line-by-line code explanation and viva cheat sheet
+  - `Report_Explanation.pdf`: Report walkthrough, results analysis, and defense tips
+  - Figures:
+    - `input_vs_output_all_levels.png`: 3-panel comparison of input and reconstructed signals
+    - `input_vs_output_L2.png`, `input_vs_output_L4.png`, `input_vs_output_L16.png`: Individual level comparison plots
+    - `efficiency_vs_levels.png`: Huffman coding efficiency vs. quantization levels
